@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Y6DVoSzUzSmRcnLOTMeof1qLeuxw7HReeu94Sgg1DLmNL3ebPAIN3j1W4vIR0nubo3NRi33nGogVxPQauLTT+Q==",
+  "dgSpecHash": "nf+JqspH0CpoLt9fZcXi3VNbehTfmOnEMoZa0e5Y8HQ4sdw/wv8+uX+/NEpork2g2s7vPj37IvZAxifOIlLOdQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dell\\source\\repos\\UnitTestExample\\UnitTestExample\\UnitTestExample.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\moq\\4.18.2\\moq.4.18.2.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
